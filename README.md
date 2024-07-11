@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavinesh+Ganeshamoorthy!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Colombo LK</h3>
-
 <br/>
 
 <div align="center">
@@ -25,7 +23,6 @@
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
