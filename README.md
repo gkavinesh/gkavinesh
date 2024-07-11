@@ -8,7 +8,7 @@
  
  🔭 I’m currently working as a full stack developer and a freelancer
  
- 🌱 Founder at Private Acquisitions - A Social Media Management Agency
+ 🌱 Founder at Private Acquisitions - An SSMA and Web Dev Agency
 
  ⚡ I do my studies at SLIIT - Computer Science Undergraduate
 
