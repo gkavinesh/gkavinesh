@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Kavinesh+Ganeshamoorthy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Kavinesh+Ganeshamoorthy!;" />
 </h1>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as a full stack developer and a freelancer
+⚡ Full stack developer and a freelancer
  
- 🌱 Founder at Private Acquisitions - An SSMA and Web Dev Agency
+🧑🏽‍💼 Founder at Private Acquisitions - An SSMA and Web Dev Agency
 
- ⚡ Computer Science Undergraduate
+📚 Computer Science Undergraduate
 
  </div>
  
