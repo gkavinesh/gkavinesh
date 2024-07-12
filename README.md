@@ -10,7 +10,7 @@
  
  🌱 Founder at Private Acquisitions - An SSMA and Web Dev Agency
 
- ⚡ I do my studies at SLIIT - Computer Science Undergraduate
+ ⚡ Computer Science Undergraduate
 
  </div>
  
@@ -22,13 +22,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,mui,html,css,vscode,github,figma,tailwind,git,r,jenkins,azure,aws" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
