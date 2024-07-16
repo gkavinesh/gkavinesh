@@ -10,7 +10,7 @@
  
 🧑🏽‍💼 Founder at Private Acquisitions - An SSMA and Web Dev Agency
 
-📚 Computer Science Undergraduate
+📚 Software Engineering Undergraduate
 
  </div>
  
