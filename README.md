@@ -1,9 +1,8 @@
-<h1 align="center" height="10vh">
+<div>
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Kavinesh+Ganeshamoorthy!;](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=30&pause=1000&color=F70000&background=FFFFFF00&center=true&multiline=true&width=435&lines=Hi+There+%F0%9F%98%89;I'm+Kavinesh+Ganeshamoorthy;May+I+help+you+%3F" />
-    <br>
-    <br>
 </h1>
-
+</div>
 <br/>
 
 <div align="center">
