@@ -6,7 +6,7 @@
  
 ⚡ Full stack developer and freelancer
  
-🧑🏽‍💼 Founder at Private Acquisitions - An SSMA and Web Dev Agency
+🧑🏽‍💼 Founder at Private Acquisitions
 
 📚 Software Engineering Undergraduate
 
