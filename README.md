@@ -4,11 +4,9 @@
 
 <div align="center">
  
-⚡ Full stack developer and freelancer
+Full stack developer / Freelancer
  
-🧑🏽‍💼 Founder at Private Acquisitions
-
-📚 Software Engineering Undergraduate
+Founder at Private Acquisitions
 
  </div>
  
