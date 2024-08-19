@@ -4,9 +4,11 @@
 
 <div align="center">
  
-Full stack developer / Freelancer
+Software Developer
  
 Founder at Private Acquisitions
+
+😉
 
  </div>
  
