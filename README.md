@@ -8,7 +8,9 @@ Software Developer
  
 Founder at Private Acquisitions
 
-↓ Got a Vision? Let’s Craft It Together ↓
+Got a Vision? Let’s Craft It Together 
+
+↓
 
  </div>
  
