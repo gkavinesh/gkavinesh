@@ -4,9 +4,9 @@
 
 <div align="center">
  
-Software Developer
+-Software Developer-
  
-Founder at Private Acquisitions
+Founder - Private Acquisitions
 
 Got a Vision? Let’s Craft It Together 
 
