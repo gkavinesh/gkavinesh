@@ -18,4 +18,7 @@ Got a Vision? Let’s Craft It Together
   <a href="mailto:gkavinesh186@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+ <a href="https://www.linkedin.com/in/kavinesh186/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
