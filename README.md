@@ -3,6 +3,8 @@
 </h1>
 
 <div align="center">
+
+--Product Engineer at MetanaHQ--
  
 --Software Developer--
  
