@@ -4,9 +4,9 @@
 
 <div align="center">
 
---Product Engineer at MetanaHQ--
- 
---Software Developer--
+Product Engineer at MetanaHQ
+
+Software Developer
  
 Founder - Private Acquisitions 
 
