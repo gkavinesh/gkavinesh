@@ -8,7 +8,7 @@ Product Engineer at MetanaHQ
 
 Software Developer
  
-Founder - Private Acquisitions 
+Founder @ Private Acquisitions 
 
 Got a Vision? Let’s Craft It Together 
 
