@@ -6,7 +6,7 @@
 
 Product Engineer at MetanaHQ
 
-Software Developer
+Full Stack Developer
  
 Founder @ Private Acquisitions 
 
