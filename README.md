@@ -10,7 +10,7 @@ Full Stack Developer
  
 Founder @ Private Acquisitions 
 
-Got a Vision? Let’s Craft It Together 
+Got a Vision? Let’s Build It Together 
 
 ↓
 
