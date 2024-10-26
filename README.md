@@ -4,11 +4,11 @@
 
 <div align="center">
 
+Tech Entrepreneur
+
 Product Engineer at MetanaHQ
 
 Full Stack Developer
- 
-Founder @ Private Acquisitions 
 
 Got a Vision? Let’s Build It Together 
 
