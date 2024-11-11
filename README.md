@@ -4,11 +4,9 @@
 
 <div align="center">
 
-Solopreneur
+Solopreneur / Freelancer
 
 Product Engineer at MetanaHQ
-
-Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&duration=8000&pause=10000&color=9CF560&background=0D1117&center=true&vCenter=true&width=1000&height=100&lines=Got+a+vision+%3F+Let's+craft+it+together)](https://git.io/typing-svg)
 
