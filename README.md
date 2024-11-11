@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Tech Entrepreneur
+Solopreneur
 
 Product Engineer at MetanaHQ
 
