@@ -6,7 +6,7 @@
 
 Solopreneur / Freelancer
 
-Head of Research & Development at 12BK
+Head of Development at 12BK
 
 Product Engineer at MetanaHQ
 
