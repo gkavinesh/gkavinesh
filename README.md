@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Solopreneur / Freelancer
+Founder at Private Acquisitions
 
 Head of Development at 12BK
 
