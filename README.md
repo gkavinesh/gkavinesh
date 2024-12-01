@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Founder at Private Acquisitions
+-Founder at Private Acquisitions-
 
 Head of Development at 12BK
 
