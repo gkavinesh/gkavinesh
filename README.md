@@ -6,7 +6,7 @@
 
 Founder at Private Acquisitions
 
-Head of Development at 12BK
+Head of Development at 12BK Pvt Ltd
 
 Product Engineer at MetanaHQ
 
