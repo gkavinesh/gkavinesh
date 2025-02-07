@@ -6,7 +6,7 @@
 
 Founder at Private Acquisitions
 
-Head of Development at 12BK Pvt Ltd
+Head of Research & Development at 12BK Pvt Ltd
 
 Product Engineer at MetanaHQ - Expert Coding Bootcamps
 
